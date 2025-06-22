@@ -1,9 +1,12 @@
-## Hi there 👋
+<h1 align="center"> Hi there👋, I'm Raseel! </h1>
+
+<img "
+<br>
+<a href="[https://linkedin.com/in/AVS1508](https://www.linkedin.com/in/raseel-alrawdhan-8aa7732b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> <a href="mailto:raseelalrawdhan@hotmail.com"><img src="https://img.shields.io/badge/-raseelalrawdhan@hotmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
 
 ### Languages and Tools:
-
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-<br/>
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,php,java,r,firebase,flutter,github,mysql,figma,vscode)](https://skillicons.dev)
+<br>
+### I’m currently learning: 
+[![My Skills](https://skillicons.dev/icons?i=fastapi,docker)](https://skillicons.dev)
