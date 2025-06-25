@@ -9,4 +9,4 @@
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,js,php,java,r,firebase,flutter,github,mysql,figma,vscode)](https://skillicons.dev) And More!
 <br>
 ### I’m currently learning: 
-[![My Skills](https://skillicons.dev/icons?i=fastapi,docker,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,docker,postgres,laravel,ts,nestjs)](https://skillicons.dev)
