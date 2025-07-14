@@ -6,7 +6,7 @@
 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,php,java,r,firebase,flutter,github,figma,vscode)](https://skillicons.dev).....
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,php,java,r,firebase,flutter,github,figma,vscode,postgres,docker)](https://skillicons.dev).....
 <br>
 ### I’m currently learning: 
-[![My Skills](https://skillicons.dev/icons?i=fastapi,docker,postgres,laravel,ts,nestjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,laravel,ts,nestjs)](https://skillicons.dev)
