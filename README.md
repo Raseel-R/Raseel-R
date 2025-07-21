@@ -10,3 +10,7 @@
 <br>
 ### I’m currently learning: 
 [![My Skills](https://skillicons.dev/icons?i=fastapi,laravel,ts,nestjs)](https://skillicons.dev)
+
+----------------------------------------
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raseel-r&layout=compact)
+
