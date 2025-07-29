@@ -6,10 +6,10 @@
 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,php,java,r,firebase,flutter,github,figma,vscode,postgres,docker)](https://skillicons.dev).....
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,php,java,r,firebase,flutter,github,figma,vscode,postgres,docker,fastapi)](https://skillicons.dev).....
 <br>
 ### I’m currently learning: 
-[![My Skills](https://skillicons.dev/icons?i=fastapi,laravel,ts,nestjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,nestjs)](https://skillicons.dev)
 
 ----------------------------------------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raseel-r&layout=compact)
